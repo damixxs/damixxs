@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudiante apasionado por la programación, el desarrollo web y el fútbol ⚽<br>
-  📍 Ecuador 🇪🇨
+  📍 Ecuador 🇪🇨 +593
 </p>
 
 <p align="center">
@@ -47,6 +47,7 @@ Si no estoy programando, probablemente estoy en una cancha o viendo un partido.
 ## 📫 Contáctame
 - 📧 Correo: abastidas1342@uta.edu.ec
 - 📸 Instagram: @damian_0920
+- Teléfono: 0961595885
 
 ## 🎯 Mi meta
 Convertirme en desarrollador profesional y crear proyectos que ayuden a las personas.
