@@ -45,7 +45,7 @@ Si no estoy programando, probablemente estoy en una cancha o viendo un partido.
 </p>
 
 ## 📫 Contáctame
-- 📧 Correo: abastidas1342@uta.edu,ec
+- 📧 Correo: abastidas1342@uta.edu.ec
 - 📸 Instagram: @damian_0920
 
 ## 🎯 Mi meta
